@@ -4,11 +4,9 @@ import "./Header.css";
 const Header = () => {
   return (
     <div className="Header">
-      <img
-        className="logo"
-        src="https://tse2.mm.bing.net/th?id=OIP.cxJWyP3a9SOU8CJjnu1YAQHaE0&pid=Api&P=0"
-        alt="Logo"
-      />
+      <h3 className="logo">
+        <strong>G</strong>old - <strong>F</strong>itness
+      </h3>
       <ul className="Header-menu">
         <li>Home</li>
         <li>Programs</li>

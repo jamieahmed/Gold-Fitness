@@ -1,25 +1,42 @@
 .Header {
     display: flex;
     justify-content: space-between;
+    text-decoration: none;
+    color:gold;
+    font-weight: 600px;
+    font-size: 20px;
+    font-family: "Times New Roman", Times, serif;
+
 }
 
 .logo {
-    height: 3rem;
-    width: 10rem;
-    border-radius: 5%;
+    font-size: 30px;
+    font-weight: 600px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+    margin: 10px;
+}
+
+.logo>strong {
+    font-weight: bolder;
+
+
 }
 
 .Header-menu {
     list-style: none;
     display: flex;
     gap: 2rem;
-    color: white;
     background-color: transparent;
+    font-weight: 600;
+    padding-bottom: 0px;
+    padding-left: 10px;
+    margin: 10px;
 }
 
 
 .Header-menu>li:hover {
     cursor: pointer;
-    color: red;
+    color: whitesmoke;
     font-weight: bolder;
 }

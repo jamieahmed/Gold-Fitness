@@ -17,12 +17,16 @@ const Home = () => {
             <span> Your</span>
           </div>
           <div>
-            <span>Ideal Body</span>
+            <span>
+              Ideal <span className="unique-text">Body</span>
+            </span>
           </div>
           <div>
             <span>
-              We will help you to shape and build your ideal body and live up
-              your life to fullest
+              Our mission is to provide an Entertaining, Educational, Friendly
+              and Inviting, Functional and Innovative experience of
+              uncompromising quality that meets the health and fitness needs of
+              the entire family.
             </span>
           </div>
         </div>
@@ -47,15 +51,6 @@ const Home = () => {
       </div>
       <div className="right-home">
         <button className="btn">Join Today</button>
-        <div className="heart">
-          <img
-            className="heart-img"
-            src="https://tse4.mm.bing.net/th?id=OIP.-RXgv8XC8t8t0jezRwl16AHaHa&pid=Api&P=0"
-            alt=""
-          />
-          <span>Heart Rate </span>
-          <span>105 bpm</span>
-        </div>
         <img
           className="home-image-one"
           src="https://tse1.mm.bing.net/th?id=OIP.R9XKrp0kuFHkXUiWdqYsTQHaFm&pid=Api&P=0"
