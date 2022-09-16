@@ -45,7 +45,7 @@ const Home = () => {
           </div>
         </div>
         <div className="home-button">
-          <button className="btn">Get start today</button>
+          <button className="btn">Get start now</button>
           <button className="btn"> Learn More</button>
         </div>
       </div>

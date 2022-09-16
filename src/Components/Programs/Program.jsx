@@ -3,7 +3,7 @@ import "./Program.css";
 import programData from "../data/programs";
 
 const rightArrow =
-  "https://tse1.mm.bing.net/th?id=OIP.LJfvKjQP4FpFfkVuY0ps1wHaD9&pid=Api&P=0";
+  "https://wpclipart.com/dl.php?img=/signs_symbol/button/button_direction/direction_arrow_gold_right_T.png";
 
 const Program = () => {
   return (
@@ -11,16 +11,16 @@ const Program = () => {
       <div className="programs-header">
         <span className="unique-text">Explore our</span>
         <span>Programs</span>
-        <spa className="unique-text">to shope you </spa>
+        <span className="unique-text">to shope you </span>
       </div>
       <div className="program-Categories">
         {programData.map((program) => (
           <div className="Category">
-            {program.Image} <br />
+            {program.Image}
             <span>{program.heading} </span>
             <span>{program.details} </span>
             <div className="join-now">
-              <span>Join Now</span>
+              <span>Join Now </span>
               <img className="right-arrow" src={rightArrow} alt="right-arrow" />
             </div>
           </div>

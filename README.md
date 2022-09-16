@@ -1,7 +1,7 @@
 # Gold - Fitness
 ![Gold-Fitness](https://i.imgur.com/cZ5l5zQ.png)
 # Description:
-Gold-Fitness mission is to provide an Entertaining, Educational, Friendly and Inviting, Functional and Innovative experience of uncompromising quality that meets the health and fitness needs of the entire family and friends etc...
+Gold-Fitness's  mission is to provide an Entertaining, Educational, Friendly and Inviting, Functional and Innovative experience of uncompromising quality that meets the health and fitness needs of the entire family and friends etc...
 
 - If you have any suggestion or comments regarding of Gold-Fitness please let me know, [linkedin](https://www.linkedin.com/in/jamie-ahmed-b1841421a/) | [Personal website](https://jamiedeveloper.netlify.app/) or [Facebook](https://www.facebook.com/JAMIEAHMEDIBRAHIM/)
 
