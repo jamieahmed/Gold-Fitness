@@ -26,11 +26,15 @@ const Home = () => {
               Our mission is to provide an Entertaining, Educational, Friendly
               and Inviting, Functional and Innovative experience of
               uncompromising quality that meets the health and fitness needs of
-              the entire family.
+              the entire family friends etc...
             </span>
           </div>
         </div>
         <div className="figures">
+          <div>
+            <span>+50</span>
+            <span>Programs</span>
+          </div>
           <div>
             <span> +80</span>
             <span>Expert Coachs</span>
@@ -38,10 +42,6 @@ const Home = () => {
           <div>
             <span>+1230</span>
             <span>members joind</span>
-          </div>
-          <div>
-            <span>+50</span>
-            <span>Programs</span>
           </div>
         </div>
         <div className="home-button">
