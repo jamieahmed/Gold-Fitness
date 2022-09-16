@@ -141,10 +141,10 @@
 
 .home-image-one {
     position: absolute;
-    top: 5rem;
-    right: 5rem;
-    width: 35rem;
-    height: 35rem;
+    top: 7rem;
+    right: 15rem;
+    width: 33rem;
+    height: 33rem;
     border-radius: 50%;
     opacity: 50%;
     transform: scaleX(+1);
