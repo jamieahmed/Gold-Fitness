@@ -45,6 +45,12 @@ const Purpose = () => {
             <span>RELIABLE PARTNERS</span>
           </div>
         </div>
+        <span>OUR PARTNERS</span>
+        <div className="partners">
+          <img src="https://tse1.mm.bing.net/th?id=OIP.okxri46p4m3Atqp5jv1JLQHaHa&pid=Api&P=0" alt="" />
+          <img src="https://tse1.mm.bing.net/th?id=OIP.okxri46p4m3Atqp5jv1JLQHaHa&pid=Api&P=0" alt="" />
+          <img src="https://tse1.mm.bing.net/th?id=OIP.okxri46p4m3Atqp5jv1JLQHaHa&pid=Api&P=0" alt="" />
+        </div>
       </div>
     </div>
   );

@@ -1,0 +1,43 @@
+.plans {
+    display: flex;
+    flex-direction: column;
+    padding: -4rem;
+    gap: 4rem;
+    position: relative;
+}
+
+.plan-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3rem;
+
+}
+
+.planDetails {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    gap: 2rem;
+    padding: 1.5rem;
+    width: 15rem;
+    color: gold;
+    background-color: black;
+    -webkit-box-shadow: 1px 1px 15px 5px #000000;
+    box-shadow: 1px 1px 15px 5px #000000;
+}
+
+.planDetails>:nth-child(1) {
+    height: 50px;
+    width: 50px;
+}
+
+.planDetails:nth-child(2) {
+    transform: scale(1.2);
+
+}
+
+.planRightIcon {
+    height: 30px;
+    width: 30px;
+}

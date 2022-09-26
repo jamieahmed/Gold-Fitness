@@ -14,8 +14,8 @@ const Program = () => {
         <span className="unique-text">to shope you </span>
       </div>
       <div className="program-Categories">
-        {programData.map((program) => (
-          <div className="Category">
+        {programData.map((program, index) => (
+          <div className="Category" key={index}>
             {program.Image}
             <span>{program.heading} </span>
             <span>{program.details} </span>
